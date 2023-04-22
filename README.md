@@ -2,6 +2,6 @@
 
 https://nava-cookie-consent.netlify.app/
 
-Seventh Project
+7th Project
 
 ** Creating projects including simple and advanced ones.
